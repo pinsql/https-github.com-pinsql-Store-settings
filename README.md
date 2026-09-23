@@ -77,20 +77,15 @@ motto:      "hack the planet 🌐"
 
 </div>
 
-<!--
-  ┌──────────────────────────────────────────────────────────────┐
-  │ TODO(pink): drop your links in and uncomment this block.      │
-  └──────────────────────────────────────────────────────────────┘
-
 ## `> ping pink`
 
 <div align="center">
-<a href="https://app.hackthebox.com/profile/YOUR_HTB_ID"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HTB"/></a>
-<a href="https://tryhackme.com/p/YOUR_THM_NAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM"/></a>
-<a href="https://YOUR_BLOG"><img src="https://img.shields.io/badge/writeups-ff4fd8?style=for-the-badge&logo=hashnode&logoColor=white" alt="blog"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/encrypted_mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="mail"/></a>
+
+<a href="https://x.com/wildkenyan"><img src="https://img.shields.io/badge/X-@wildkenyan-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X @wildkenyan"/></a>
+<a href="https://github.com/pinsql"><img src="https://img.shields.io/badge/GitHub-pinsql-ff4fd8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub pinsql"/></a>
+<a href="https://x.com/wildkenyan"><img src="https://img.shields.io/twitter/follow/wildkenyan?style=for-the-badge&logo=x&label=follow&color=00e5ff&labelColor=0d1117" alt="follow on X"/></a>
+
 </div>
--->
 
 ---
 
