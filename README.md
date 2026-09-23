@@ -73,7 +73,45 @@ motto:      "hack the planet 🌐"
 
 <img src="https://streak-stats.demolab.com?user=pinsql&hide_border=true&background=0D1117&ring=FF4FD8&fire=00E5FF&currStreakLabel=FF4FD8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" alt="streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pinsql&bg_color=0d1117&color=c9d1d9&line=ff4fd8&point=00e5ff&area=true&area_color=ff4fd8&hide_border=true" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pinsql&custom_title=%3E%20uptime%20%2F%2F%20commits%20per%20day&bg_color=0d1117&color=ff4fd8&title_color=ff4fd8&line=00e5ff&point=ff4fd8&area=true&area_color=00e5ff&hide_border=true&radius=10" alt="activity graph"/>
+
+</div>
+
+## `> ls -la ~/ops`
+
+<div align="center">
+
+<a href="https://github.com/pinsql/citadel"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=citadel&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="citadel"/></a>
+<a href="https://github.com/pinsql/pinsql"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=pinsql&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="pinsql"/></a>
+
+<a href="https://github.com/pinsql/simple-python-network-scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=simple-python-network-scanner&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="simple-python-network-scanner"/></a>
+<a href="https://github.com/pinsql/mac_address_scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=mac_address_scanner&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="mac_address_scanner"/></a>
+
+<a href="https://github.com/pinsql/AI-Sentiment-Analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=AI-Sentiment-Analyzer&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="AI-Sentiment-Analyzer"/></a>
+<a href="https://github.com/pinsql/steveweb_protfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=steveweb_protfolio&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="steveweb_protfolio"/></a>
+
+</div>
+
+```text
+drwxr-x---  citadel                         // hardened base of operations
+-rwxr-xr-x  simple-python-network-scanner   // sweep the subnet, list what's alive
+-rwxr-xr-x  mac_address_scanner             // who's on the wire? vendor lookups by MAC
+drwxr-xr-x  pinsql                          // network & security d3v op.
+-rw-r--r--  AI-Sentiment-Analyzer           // NLP side quest (fork)
+-rw-r--r--  steveweb_protfolio              // web front, hand-rolled HTML
+```
+
+## `> tail -f /var/log/contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-light.svg"/>
+  <img width="100%" alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/pinsql/pinsql/output/snake-dark.svg"/>
+</picture>
+
+<sub><code>[*] payload consumed every green square. no survivors.</code></sub>
 
 </div>
 
@@ -95,6 +133,8 @@ motto:      "hack the planet 🌐"
 + all testing performed on systems i own or am explicitly authorized to test.
 - no scope, no shells. that's the rule.
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:ff4fd8,100:0d1117&height=110&section=footer" alt=""/>
 
 <sub>░▒▓ probably smug · a little nyef nyef · <code>EOF</code> ▓▒░</sub>
 
