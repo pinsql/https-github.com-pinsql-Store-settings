@@ -81,23 +81,23 @@ motto:      "hack the planet 🌐"
 
 <div align="center">
 
+<a href="https://github.com/pinsql/polymarketkenya"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=polymarketkenya&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="polymarketkenya"/></a>
 <a href="https://github.com/pinsql/citadel"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=citadel&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="citadel"/></a>
+
 <a href="https://github.com/pinsql/pinsql"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=pinsql&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="pinsql"/></a>
-
 <a href="https://github.com/pinsql/simple-python-network-scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=simple-python-network-scanner&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="simple-python-network-scanner"/></a>
-<a href="https://github.com/pinsql/mac_address_scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=mac_address_scanner&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="mac_address_scanner"/></a>
 
-<a href="https://github.com/pinsql/AI-Sentiment-Analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=AI-Sentiment-Analyzer&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="AI-Sentiment-Analyzer"/></a>
+<a href="https://github.com/pinsql/mac_address_scanner"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=mac_address_scanner&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="mac_address_scanner"/></a>
 <a href="https://github.com/pinsql/steveweb_protfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pinsql&repo=steveweb_protfolio&show_owner=false&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=ff4fd8&icon_color=00e5ff&text_color=c9d1d9" alt="steveweb_protfolio"/></a>
 
 </div>
 
 ```text
+drwxr-xr-x  polymarketkenya                 // utabiti market: polymarket for kenya (next.js · prisma · web3)
 drwxr-x---  citadel                         // hardened base of operations
 -rwxr-xr-x  simple-python-network-scanner   // sweep the subnet, list what's alive
 -rwxr-xr-x  mac_address_scanner             // who's on the wire? vendor lookups by MAC
 drwxr-xr-x  pinsql                          // network & security d3v op.
--rw-r--r--  AI-Sentiment-Analyzer           // NLP side quest (fork)
 -rw-r--r--  steveweb_protfolio              // web front, hand-rolled HTML
 ```
 
